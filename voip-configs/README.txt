@@ -1,0 +1,1 @@
+VoIP configuration examples for Cisco, 3CX, and Unify systems.
